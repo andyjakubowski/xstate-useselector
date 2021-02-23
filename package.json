@@ -9,7 +9,13 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.0.1"
+    "web-vitals": "^1.0.1",
+    "xstate": "4.16.2",
+    "@xstate/react": "^1.0.2",
+    "uuid-v4": "0.1.0"
+  },
+  "devDependencies": {
+    "node-sass": "4.14.1"
   },
   "scripts": {
     "start": "react-scripts start",
